@@ -12,4 +12,4 @@ The codes can be run in browser by clicking here [![Binder](https://mybinder.org
 
 ## Publication
 
-Yadav, P. K., S. Daulat, S. Birla, N. N. Hernandes, R. Liedl, and B. R. Chahar. 2022. An Approach for Selecting a Model for the Assessment of Potentially Contaminated Sites. Groundwater, May, gwat.13204, (https://doi.org/10.1111/gwat.13204)[https://doi.org/10.1111/gwat.13204].
+Yadav, P. K., S. Daulat, S. Birla, N. N. Hernandes, R. Liedl, and B. R. Chahar. 2022. An Approach for Selecting a Model for the Assessment of Potentially Contaminated Sites. Groundwater, May, gwat.13204, [https://doi.org/10.1111/gwat.13204](https://doi.org/10.1111/gwat.13204).
