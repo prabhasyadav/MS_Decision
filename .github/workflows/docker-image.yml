@@ -13,7 +13,7 @@ jobs:
     - name: update jupyter dependencies with repo2docker
       uses: jupyterhub/repo2docker-action@master
       with:
-        DOCKER_USERNAME: ${{ prabhas75 }}
-        DOCKER_PASSWORD: ${{ dckr_pat_x9WIf3G2ae3Q0J1xOgHSarfmtx8 }}
+        DOCKER_USERNAME: ${{ secrets.prabhas75 }}
+        DOCKER_PASSWORD: ${{ secrets.dckr_pat_x9WIf3G2ae3Q0J1xOgHSarfmtx8 }}
         BINDER_CACHE: true
         PUBLIC_REGISTRY_CHECK: true
